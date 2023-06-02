@@ -14,7 +14,9 @@
 </template>
 
 <script setup lang="ts">
-
+useHead({
+  title: 'Neftali Aguilar Portfolio'
+})
 </script>
 
 <style scoped></style>
