@@ -1,8 +1,8 @@
 <template>
-    <div>
-        <BaseHeader/>
+    <div class="bg-black">
+        <BaseHeader />
         <slot />
-        <BaseFooter/>
+        <BaseFooter />
     </div>
 </template>
 
