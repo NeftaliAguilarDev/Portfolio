@@ -15,7 +15,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Neftali Aguilar Portfolio'
+  title: 'Neftali Aguilar - Full Stack Developer'
 })
 </script>
 
