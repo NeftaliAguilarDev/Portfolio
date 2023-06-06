@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b">
+  <div class="border-b bg-black">
     <header class="container mx-auto flex flex-wrap shadow-sm px-10 py-5 sticky text-white">
       <div class="w-8/12 md:w-4/12 my-auto">
         <span class="text-xl">Neftali Aguilar</span>
@@ -9,7 +9,7 @@
         <nav class="hidden md:block">
           <ul class="flex space-x-5 justify-end">
             <li>
-              <NuxtLink class="text-sm" to="/">Home</NuxtLink>
+              <NuxtLink class="text-sm" to="/">Home </NuxtLink>
             </li>
             <li>
               <NuxtLink class="text-sm" to="/blog">Blog</NuxtLink>
