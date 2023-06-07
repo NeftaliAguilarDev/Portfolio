@@ -14,6 +14,8 @@
     "nuxt": "^3.5.2"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@formkit/nuxt": "^0.17.2",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
     "@fortawesome/vue-fontawesome": "^3.0.3"
