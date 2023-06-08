@@ -1,7 +1,7 @@
 <template>
     <div class="bg-gradient-to-b from-black to-zinc-900 pb-36">
         <section class="container mx-auto px-10 text-white text-center">
-            <h2 class="text-2xl xl:text-5xl mb-10">Say Hi!</h2>
+            <h2 class="text-2xl xl:text-5xl mb-10">Drop a message</h2>
             <p class="text-lg">Feel free to send me a message if you have a project that I can help with</p>
             <div class="w-full">
                 <form ref="form" @submit.prevent="sendEmail">

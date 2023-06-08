@@ -9,7 +9,7 @@
                     discovering my own potential that I have as an Engineer. My main stack is Laravel + Vue using Inertia
                     for
                     monolithic projects.</p>
-                <i class="devicon-adonisjs-original"></i>
+                <i class="devicon-adonisjs-original"></i> 
 
                 <i class="devicon-devicon-plain-wordmark"></i>
 

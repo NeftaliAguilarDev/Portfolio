@@ -20,7 +20,7 @@ useSeoMeta({
 
 <style>
 .input {
-  @apply border bg-transparent p-5 w-96
+  @apply border border-slate-100 bg-transparent p-5 w-96
 }
 
 .label {
