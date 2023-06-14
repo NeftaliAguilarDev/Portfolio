@@ -1,7 +1,10 @@
 <template>
-  <SectionIntroduction />
-  <SectionProjects />
-  <SectionContact />
+  <div>
+    <SectionIntroduction />
+    <SectionProjects />
+    <SectionTools />
+    <SectionContact />
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -20,7 +23,7 @@ useSeoMeta({
 
 <style>
 .input {
-  @apply border border-slate-100 bg-transparent p-5 w-96
+  @apply border border-slate-100 bg-transparent p-5 max-w-full w-96
 }
 
 .label {
