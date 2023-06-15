@@ -31,7 +31,7 @@ const skills = [
         tools: ['Laravel', 'Vue', 'Inertia', 'Javascript', 'Git', 'UX/UI', 'Responsive design']
     },
     {
-        level: 'Proficient',
+        level: 'Beginner - Proficient',
         tools: ['Nuxt', 'Typescript', 'Pinia', 'Formkit', 'AWS', 'Digital Ocean', 'Docker', 'SSH', 'SQL', 'Strapi', 'Figma', 'Adobe XD', 'Adobe Illustrator']
     }
 ]
