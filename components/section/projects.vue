@@ -5,7 +5,36 @@
             <div class="flex flex-wrap space-y-10">
                 <div class="w-full px-10">
                     <div
-                        class="flex flex-wrap md:border md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
+                        class="flex flex-wrap md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
+                        <div class="px-0 md:p-10 my-auto md:w-2/12 text-center">
+                            <font-awesome-icon icon="fa-solid fa-globe" class="text-6xl" />
+                        </div>
+                        <div class="px-0 md:p-10 my-auto md:w-10/12 mt-5 md:mt-0">
+                            <h3 class="text-xl font-bold mb-5">Flower Shop</h3>
+                            <p>I am developing a project based on a flowershop needs. The goal of this project is to improve my programming skills and show to others people what I can do.</p>
+                            <p class="mt-5"><strong>Used tools:</strong></p>
+                            <ul class="flex flex-wrap space-x-2 mb-5">
+                                <li>Vue</li>
+                                <li>Vue Router</li>
+                                <li>Vuetify</li>
+                                <li>Vue Apollo</li>
+                                <li>GraphQL</li>
+                                <li>Laravel - Lighthouse</li>
+                                <li>Tailwind</li>
+                                <li>Github Actions</li>
+                            </ul>
+                            <a href="https://visitpuertovallarta.com" target="_blank"
+                                class="border my-4 border py-1 px-4 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
+                                website</a>
+                                <a href="https://github.com/NeftaliAguilarDev/Vue-Flowershop-Admin-Panel" target="_blank"
+                                class="border ml-4 my-4 py-1 px-4 md:ml-5 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
+                                repository</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full px-10">
+                    <div
+                        class="flex flex-wrap md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
                         <div class="px-0 md:p-10 my-auto md:w-2/12 text-center">
                             <font-awesome-icon icon="fa-solid fa-globe" class="text-6xl" />
                         </div>
@@ -23,14 +52,14 @@
                                 <li>Stylus</li>
                             </ul>
                             <a href="https://visitpuertovallarta.com" target="_blank"
-                                class="md:border md:px-3 py-1 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
+                                class="border py-1 px-4 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
                                 website</a>
                         </div>
                     </div>
                 </div>
                 <div class="w-full px-10">
                     <div
-                        class="flex flex-wrap md:border md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
+                        class="flex flex-wrap md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
                         <div class="px-0 md:p-10 my-auto md:w-2/12 text-center">
                             <font-awesome-icon icon="fa-solid fa-globe" class="text-6xl" />
                         </div>
@@ -47,14 +76,14 @@
                                 <li>Stylus</li>
                             </ul>
                             <a href="https://quieroflores.com.mx" target="_blank"
-                                class="md:border md:px-3 py-1 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
+                                class="border py-1 px-4 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
                                 website</a>
                         </div>
                     </div>
                 </div>
                 <div class="w-full px-10">
                     <div
-                        class="flex flex-wrap md:border md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
+                        class="flex flex-wrap md:p-10 rounded-lg border-white items-center justify-center hover:shadow-sm hover:shadow-white duration-1000">
                         <div class="px-0 md:p-10 my-auto md:w-2/12 text-center">
                             <font-awesome-icon icon="fa-solid fa-globe" class="text-6xl" />
                         </div>

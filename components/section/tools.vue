@@ -32,7 +32,7 @@ const skills = [
     },
     {
         level: 'Beginner - Proficient',
-        tools: ['Nuxt', 'Typescript', 'Pinia', 'Formkit', 'AWS', 'Digital Ocean', 'Docker', 'SSH', 'SQL', 'Strapi', 'Figma', 'Adobe XD', 'Adobe Illustrator']
+        tools: ['Nuxt', 'Typescript', 'GraphQl', 'Pinia', 'Formkit', 'AWS', 'Digital Ocean', 'SSH', 'SQL', 'Strapi', 'Figma', 'Adobe XD', 'Adobe Illustrator']
     }
 ]
 
