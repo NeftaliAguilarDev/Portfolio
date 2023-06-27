@@ -16,7 +16,7 @@ useSeoMeta({
   ogTitle: 'Neftali Aguilar - Full Stack Developer',
   description: 'Hi, I am Neftali Aguilar. I develop projects with Vue, Nuxt and Laravel. By the way, I am located at Puerto Vallartta, Mexico',
   ogDescription: 'Hi, I am Neftali Aguilar. I develop projects with Vue, Nuxt and Laravel. By the way, I am located at Puerto Vallartta, Mexico',
-  ogImage: 'https://example.com/image.pnghttps://media.licdn.com/dms/image/C4E03AQEyqKiLAcfY9g/profile-displayphoto-shrink_800_800/0/1629429786757?e=1691020800&v=beta&t=IGcJeZEe8Hr_JUJBoPeTHURhHRPCSKW6w4VSAWJUn18',
+  ogImage: 'https://media.licdn.com/dms/image/C4E03AQEyqKiLAcfY9g/profile-displayphoto-shrink_100_100/0/1629429786757?e=1693440000&v=beta&t=alvLLPFw_nud0G_5Eopq-m7_XeUlrTOKNm6XflOcG48',
   twitterCard: 'summary_large_image',
 })
 </script>
