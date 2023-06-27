@@ -23,8 +23,8 @@
                                 <li>Tailwind</li>
                                 <li>Github Actions</li>
                             </ul>
-                            <a href="https://visitpuertovallarta.com" target="_blank"
-                                class="border my-4 border py-1 px-4 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
+                            <a href="https://vue-flowershop-admin.netlify.app/" target="_blank"
+                                class="border my-4 py-1 px-4 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
                                 website</a>
                                 <a href="https://github.com/NeftaliAguilarDev/Vue-Flowershop-Admin-Panel" target="_blank"
                                 class="border ml-4 my-4 py-1 px-4 md:ml-5 border-white rounded-md inline-block hover:bg-white hover:text-black">Visit
